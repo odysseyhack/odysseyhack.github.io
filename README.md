@@ -92,5 +92,5 @@ Or about the [2017 Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvs
 
 Let's build some great software!!
 
-[Michiel](https://github.com/michielcuijpers)
+Jade, Hugo, Bugra, [Jan](https://github.com/janlaan), [Michiel](https://github.com/michielcuijpers)
 
