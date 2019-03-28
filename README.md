@@ -1,10 +1,15 @@
 # Code Quality Matters during your Odyssey!
 
+
+## Free service to evaluate the maturity of your [Odyssey.org](https://Odyssey.org) prototype
+
 When: 12 - 14 April 2019
 
 Where:  The former Sugar Factory, Groningen NL
 
-Website: [Odyssey.org](https://Odyssey.org)
+How: [github.com/odysseyhack](https://github.com/odysseyhack) & [BetterCodeHub.com](https:BetterCodeHub.com)
+
+Powered by: [Github.com](https://Github.com) and [SoftwareImprovementGroup.eu](https://SoftwareImprovementGroup.eu)
 
 
 
