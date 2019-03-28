@@ -6,7 +6,7 @@ Where:  The former Sugar Factory, Groningen NL
 
 How: [github.com/odysseyhack](https://github.com/odysseyhack) & [BetterCodeHub.com](https:BetterCodeHub.com)
 
-Powered by: [Github.com](https://Github.com) and [SoftwareImprovementGroup.eu](https://SoftwareImprovementGroup.eu)
+Powered by: [Github](https://Github.com) and [SoftwareImprovementGroup](https://SoftwareImprovementGroup.com)
 
 
 
@@ -16,12 +16,12 @@ Powered by: [Github.com](https://Github.com) and [SoftwareImprovementGroup.eu](h
 
 2. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png).
 
-3. You can check your code against the guidelines using Better Code Hub, a GitHub integration provided by [Software Improvement Group SIG](https://www.sig.eu). Better Code Hub integrates with the GitHub CI and can run at Pull Requests and Pushes.
+3. You can check your code against the guidelines using Better Code Hub, a GitHub integration provided by [Software Improvement Group](https://www.sig.eu). Better Code Hub integrates with the GitHub CI and can run at Pull Requests and Pushes.
 
 4. 17 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc.
 
 ## How to contact us
-- At the Hackathon please use slack bettercodehub_support Jan Laan or Michiel Cuijpers 
+- At the Hackathon please use Odyssey community bettercodehub_support 
 
 ## How to get started
 
