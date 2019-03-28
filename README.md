@@ -1,7 +1,4 @@
-# Code Quality Matters during your Odyssey!
-
-
-## Free service to evaluate the maturity of your [Odyssey.org](https://Odyssey.org) prototype
+# Free service to evaluate the maturity of your [Odyssey.org](https://Odyssey.org) prototype
 
 When: 12 - 14 April 2019
 
