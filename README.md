@@ -13,7 +13,7 @@ Powered by: [Github](https://Github.com) and [SoftwareImprovementGroup](https://
 
 ## How does this work?
 
-Teams will be invited to a GitHub team repo where they can push their code continuously. The repo can be a private or public (remote) repo. For every push BetterCodeHub will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. All teams will receive a sticker with the final maintainability score for their canvas on Sunday. 
+Teams will be invited to a GitHub team repo where they can push their code continuously. The repo can be a private or public (or remote git) repo. For every push BetterCodeHub will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. All teams will receive a sticker with the final maintainability score for their canvas on Sunday. 
 
 The teams that score a 10/10 qualify for a short interview by a SIG Code JEDI. During this 10 minute session the JEDI will ‘grill’ your teach lead on the software engineering choices made: choice of technology, code architecture, security concerns and blockchain implementation. On passing the ‘grill’ session a Golden Balloon is awarded, this will help you demonstrate the maturity of your prototype to the judges.
 
