@@ -1,5 +1,7 @@
 # Free service to evaluate the maturity of your prototype
 
+During the Odyssey Hackathon Software Improvement Group (SIG) Code JEDI will support the teams to write future-proof code by means of tooling and advice. In short: The Code JEDI will assess the maturity of your prototype.
+
 When: 12 - 14 April 2019
 
 Where:  The former Sugar Factory, Groningen NL
@@ -9,8 +11,15 @@ How: [github.com/odysseyhack](https://github.com/odysseyhack) & [BetterCodeHub.c
 Powered by: [Github](https://Github.com) and [SoftwareImprovementGroup](https://SoftwareImprovementGroup.com)
 
 
+## How does this work?
 
-## How your code is evaluated
+Teams will be invited to a GitHub team repo where they can push their code continuously. The repo can be a private or public (remote) repo. For every push BetterCodeHub will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. All teams will receive a sticker with the final maintainability score for their canvas on Sunday. 
+
+The teams that score a 10/10 qualify for a short interview by a SIG Code JEDI. During this 10 minute session the JEDI will ‘grill’ your teach lead on the software engineering choices made: choice of technology, code architecture, security concerns and blockchain implementation. On passing the ‘grill’ session a Golden Balloon is awarded, this will help you demonstrate the maturity of your prototype to the judges.
+
+
+
+## What 10 guidelines?
 
 1. Your code will be evaluated against 10 guidelines for building future-proof code. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) (Ask for a free copy at the masterclass on [April 11th](https://Odysseyhack.github.io/masterclass))
 
@@ -30,7 +39,7 @@ Powered by: [Github](https://Github.com) and [SoftwareImprovementGroup](https://
 - Your team will be added in this [Odysseyhack Organization](https://github.com/odysseyhack)
 - You will be a maintainer of your team, so you can add more people.
 - You will be able to create private repos and add please these to the team.
-- Your blockchainger repo can be a 'Git Remote'
+- Your repo can be a 'Git Remote'
 
 2. Add your repo to your team in the [Odysseyhack Organization](https://github.com/odysseyhack)
 
@@ -61,17 +70,26 @@ Powered by: [Github](https://Github.com) and [SoftwareImprovementGroup](https://
 3. Add a section called exclude, in there add the files/folders you want to exclude. Supported exclusion options can be found [at the bettercodehub documentation](https://bettercodehub.com/docs/configuration-manual)
 
 
-## How to get points for technical quality?
+## How to get a sticker with my score 
 
-1. You get points based on your score in Better Code Hub.
+1. The more guidelines you get right, the more points you get.
 
-2. The more guidelines you get right, the more points you get.
+2. if you have multiple repos the lowest scoring repo is your final mark (weakest link principle).
 
-3. if you have multiple repos the lowest scoring repo is your final mark (weakest link principle).
-
-4. On Sunday April 8th between 10:30 and 11:59 ask for a sticker with your final score.
+3. On Sunday April 14th between 10:30 and 11:59 ask for a sticker with your final score.
 
 5. Put the sticker on the canvas.
+
+## How to get Grilled
+
+1. If your repo scores a 10/10 then you qualify
+
+2. pick your 10 minute slot for your session
+
+3. get Grilled
+
+4. if you pass you get a Golden Balloon
+
 
 
 ## Odyssey Hackathon Scoreboard
