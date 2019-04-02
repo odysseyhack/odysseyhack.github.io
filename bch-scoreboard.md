@@ -1,4 +1,8 @@
-## Odyssey Hackathon Better Code Hub Scoreboard
+---
+title: Current Better Code Hub scores for Odyssey hackathon participants
+---
+
+## Better Code Hub Scoreboard
 
 Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize or send in a PR.
 
