@@ -92,9 +92,9 @@ Team | Better Code Score
 --- | ---
 [Example team ](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
 
-All the badges of the repos are collected [here](https://Odyssey.github.io/BCH_ScoreBoard)
+All the badges of the repos are collected [here](https://odysseyhack.github.io/bch-scoreboard)
 
-Not on the scoreboard? Let the Better Code Hub team know on Slack or send a PR.
+Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize or send a PR.
 
 
 ## How to exclude library files from analysis / change your configuration
