@@ -94,7 +94,7 @@ Team | Better Code Score
 
 All the badges of the repos are collected [here](https://odysseyhack.github.io/bch-scoreboard)
 
-Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize or send a PR.
+Not on the scoreboard? Let the Better Code Hub team know on Mobilize or send a PR.
 
 
 ## How to exclude library files from analysis / change your configuration
