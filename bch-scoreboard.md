@@ -1,6 +1,5 @@
 ---
 title: Current Better Code Hub scores for Odyssey hackathon participants
-layout: post
 ---
 
 ## Better Code Hub Scoreboard
