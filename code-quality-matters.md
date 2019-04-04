@@ -19,8 +19,8 @@ It’s good to know we didn’t just make this up. All the data and thresholds i
 
 ![10 Guidelines](10guidelines.png)
 
-__Step 2, planning for the future__: For those scoring a 10, we’ll go one step further: We will look at your code, and during a 10 minute grill session we will determine whether your prototype makes technical sense going forward, instead of just looking pretty. (This is the “mature prototype” bit on the hackathon canvas.)
+__Step 2, planning for the future__: For those scoring a 10, we’ll go one step further: We will look at your code, and during a 10 minute grill session we will determine whether your prototype makes technical sense going forward, instead of just looking pretty. This is the “mature prototype” bit on the hackathon canvas. It includes topics such as software architecture and non-functional stuff such as performance, reliability and security.
 
-__Sneak preview__: One of the questions we’ll ask is: How will this scale? From a technical perspective of course, we don’t care about marketing talk! Handling thousands, millions of users/transactions is not always easy. A little preparation and thinking ahead will definitely save you a lot of problems going ahead.
+__Sneak preview__: One of the questions we’ll ask is: Will it scale? From a technical perspective of course, we don’t care about marketing talk! Handling thousands, millions of users/transactions is not always easy. A little preparation and thinking ahead will definitely save you a lot of problems going ahead.
 
 Will you be at the Hackathon? Come by the Jedi corner to say hi, to pick our brain, or get grilled to earn the right to call your prototype "mature". We’re out in force: Me (Jan), Michiel, Jade, Luc, Bugra, Hugo and Reinier. We’re here to help, and we know all about software quality and architecture. It’s what we do!
