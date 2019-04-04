@@ -8,6 +8,8 @@ Tomorrow is the day you have to build further with today’s code. You know how 
 
 Fast forward a few months. You hold your pitch, get some backing and build your prototype into a real-life working application, happily hacking along…, and then something breaks. You know what it is, you think. You quickly push a fix to production, and all is well. 10 minutes later you get the next call, and before you know it you’re knee-deep in spaghetti code, trying to decipher last month’s code hieroglyphs. It all comes tumbling down…
 
+![The only valid measurement of code quality](wtfsperminute.png)
+
 ### Better Code Hub team is here to help
 Of course, this doom scenario is mostly an exaggeration, but more often than you might think it's the bitter reality. This is why we at the [Software Improvement Group](https://softwareimprovementgroup.com) preach good software quality, religiously. We believe a little bit of effort now, will save a lot of headaches down the road. And we’re helping out @ Odyssey hackathon in 2 steps:
 
