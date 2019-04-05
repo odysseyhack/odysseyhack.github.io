@@ -17,18 +17,19 @@ The teams that score a 10/10 qualify for a short interview by a SIG Code JEDI. D
 4. 17 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc.
 
 
-## GitHub private repos
+## GitHub teams and private repos
 
-1. All the teams were created on forehand and email invites were send. Please check these invite emails from GitHub.
-
+- All the teams were created on forehand and email invites were send. Please check these invite emails from GitHub.
 - Your team is added here [Odysseyhack Organization](https://github.com/odysseyhack)
 - We have create a private repo for you.
 - Your repo can be a 'Git Remote'
 
-2. Adding a second repo to your team in the [Odysseyhack Organization](https://github.com/odysseyhack).
+## More private repos
 
+- You can add more repos to your team yourself.
 - You first need to create the repository within the org (using the + next to your profile icon) 
 - then add the repo to your team -> repositories -> add -> and add the created respository
+- be aware of the weakest-link -principle
 
 ## GitHub oAuth to login to Better Code Hub and run analysis
 
