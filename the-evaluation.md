@@ -19,7 +19,8 @@ The teams that score a 10/10 qualify for a short interview by a SIG Code JEDI. D
 
 ## GitHub teams and private repos
 
-- All the teams were created on forehand and email invites were send. Please check these invite emails from GitHub.
+- All the teams were created on forehand and email invites were send to the teamleads. 
+- Please check these invite emails from GitHub.
 - Your team is added here [Odysseyhack Organization](https://github.com/odysseyhack)
 - We have create a private repo for you.
 - Your repo can be a 'Git Remote'
