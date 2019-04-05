@@ -17,25 +17,26 @@ The teams that score a 10/10 qualify for a short interview by a SIG Code JEDI. D
 4. 17 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc.
 
 
-## How to get started
+## GitHub Private repos
 
 1. All the teams were created on forehand and email invites were send. Please check these invite emails from GitHub.
 
-- Your team will be added in this [Odysseyhack Organization](https://github.com/odysseyhack)
-- You will be a maintainer of your team, so you can add more people.
-- You will be able to create private repos and add please these to the team.
+- Your team is added here [Odysseyhack Organization](https://github.com/odysseyhack)
+- We have create a private repo for you.
 - Your repo can be a 'Git Remote'
 
-2. Adding a repo to your team in the [Odysseyhack Organization](https://github.com/odysseyhack)
+2. Adding a second repo to your team in the [Odysseyhack Organization](https://github.com/odysseyhack)
 
-- You first need to add/create the repository within the org (using the + next to your profile icon) 
-- then go to your team -> repositories -> add -> and add the created respository
+- You first need to create the repository within the org (using the + next to your profile icon) 
+- then add the repo to your team -> repositories -> add -> and add the created respository
 
-3. Go to [Bettercodehub.com](https://bettercodehub.com) and accept the scopes. 
+## GitHub oAuth to login to Better Code Hub and run analysis
 
-4. Press play and get instant feedback on the guidelines and pick refactor candidates.
+1. Go to [Bettercodehub.com](https://bettercodehub.com), login with your Github oAuth and accept the 3 scopes. 
 
-5. Click on the Pull request icon to make Better Code Hub analyse every Push and Pull Request.
+2. Press play and get instant feedback on the guidelines and pick refactor candidates.
+
+3. Click on the Pull request icon to make Better Code Hub analyse every Push and Pull Request.
 
 
 ## How to get support
@@ -62,7 +63,7 @@ The teams that score a 10/10 qualify for a short interview by a SIG Code JEDI. D
 
 ## How to get Grilled
 
-1. If your main repo scores a 10/10 then you qualify
+1. If you score a 10/10 then you qualify!
 
 2. pick your 10 minute slot for your session
 
