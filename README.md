@@ -5,7 +5,7 @@ Powered by: [Software Improvement Group](https://softwareimprovementgroup.eu) an
 
 ## Tech Lead Briefing at the Hackathon - Friday 11 April 11.00-11.30 on the process
 
-Below you read exactly how this process works. Your tech lead is invited to this pre-hackathon briefing, where we run through the process and answer any questions.
+[here](https://odysseyhack.github.io/the-evaluation) you read exactly how this process works. Your tech lead is invited to this pre-hackathon briefing, where we run through the process and answer any questions.
 
 ## How to get a ‘Mature Prototype’ Certificate?
 - If your main repo scores a Better Code Hub 10/10 you qualify to schedule a grilling session.
