@@ -1,8 +1,6 @@
 ## Want to win? Learn how we check your code here.
 During the Odyssey Hackathon Software Improvement Group (SIG) will assess the maturity of your prototype. If you pass this test, the jury knows that you have build a ‘mature prototype’
 
-Powered by: [Software Improvement Group](https://softwareimprovementgroup.eu) and [Github](https://github.com)
-
 ## Tech Lead Briefing at the Hackathon - Friday 11 April 11.00-11.30 on the process
 
 [here](https://odysseyhack.github.io/the-evaluation) you read exactly how this process works. Your tech lead is invited to this pre-hackathon briefing, where we run through the process and answer any questions.
@@ -17,3 +15,5 @@ Powered by: [Software Improvement Group](https://softwareimprovementgroup.eu) an
 - The more guidelines you get right, the higher the final score.
 - if you have multiple repos the lowest scoring repo is your final mark (weakest link principle).
 - On Sunday April 14th between 10:30 and 11:59 ask for a sticker with your final score.
+
+Powered by: [Software Improvement Group](https://softwareimprovementgroup.eu) and [Github](https://github.com)
