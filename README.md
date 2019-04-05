@@ -1,4 +1,4 @@
-# Get your code quality sticker & evaluate the maturity of your prototype
+# Get your code quality sticker & evaluate the maturity of your prototype.
 
 During the Odyssey Hackathon Software Improvement Group (SIG) Code JEDI will support the teams to write future-proof code by means of tooling and advice.
 
