@@ -1,20 +1,6 @@
-# Get your code quality sticker & evaluate the maturity of your prototype.
+## How does this evaluation work?
 
 During the Odyssey Hackathon Software Improvement Group (SIG) Code JEDI will support the teams to write future-proof code by means of tooling and advice.
-
-
-What: The SIG Code JEDI will assess the maturity of your prototype.
-
-When: 12 - 14 April 2019
-
-Where: The former Sugar Factory, Groningen NL
-
-How: [BetterCodeHub.com](https:BetterCodeHub.com)
-
-Powered by: [Github](https://Github.com) and [SoftwareImprovementGroup](https://SoftwareImprovementGroup.com)
-
-
-## How does this evaluation work?
 
 Teams will be invited to a GitHub team repo where they can push their code continuously. The repo can be a private or public (or remote git) repo. For every push BetterCodeHub (BCH) will automatically check the code quality. Installation of BCH is zero-setup. The code quality score is displayed on a 10 point scale. All the scores will be on a dashboard. All teams will receive a sticker with the final maintainability score for their canvas on Sunday. 
 
