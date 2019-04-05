@@ -16,6 +16,6 @@ During the Odyssey Hackathon Software Improvement Group (SIG) will assess the ma
 - if you have multiple repos the lowest scoring repo is your final mark (weakest link principle).
 - On Sunday April 14th between 10:30 and 11:59 ask for a sticker with your final score.
 
-## Partners
+## Provided by
 - Better Code Hub and Grill sessions by [Software Improvement Group](https://softwareimprovementgroup.eu) 
-- this Org with private repos by [Github](https://github.com)
+- this org with private repos for 1 month by [Github](https://github.com)
