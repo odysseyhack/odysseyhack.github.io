@@ -17,7 +17,7 @@ The teams that score a 10/10 qualify for a short interview by a SIG Code JEDI. D
 4. 17 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc.
 
 
-## GitHub Private repos
+## GitHub private repos
 
 1. All the teams were created on forehand and email invites were send. Please check these invite emails from GitHub.
 
