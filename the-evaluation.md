@@ -25,7 +25,7 @@ The teams that score a 10/10 qualify for a short interview by a SIG Code JEDI. D
 - We have create a private repo for you.
 - Your repo can be a 'Git Remote'
 
-2. Adding a second repo to your team in the [Odysseyhack Organization](https://github.com/odysseyhack)
+2. Adding a second repo to your team in the [Odysseyhack Organization](https://github.com/odysseyhack).
 
 - You first need to create the repository within the org (using the + next to your profile icon) 
 - then add the repo to your team -> repositories -> add -> and add the created respository
