@@ -1,6 +1,6 @@
 ## First steps with BetterCodeHub tutorial
 
 
-https://odysseyhack.github.io/BCH-first-use/index.html
+[Check this video](https://odysseyhack.github.io/BCH-first-use/index.html)
 
 
