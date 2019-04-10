@@ -77,12 +77,7 @@ The teams that score a 10/10 qualify for a short interview by a SIG Code JEDI. D
 
 ## Odyssey Hackathon Scoreboard
 
-Team | Better Code Score
---- | ---
-[Example team ](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
-
-All the badges of the repos are collected [here](https://odysseyhack.github.io/bch-scoreboard)
-
+All the badges of the repos are collected [here](https://odysseyhack.github.io/scoreboard)
 Not on the scoreboard? Let the Better Code Hub team know on Mobilize or send a PR.
 
 
