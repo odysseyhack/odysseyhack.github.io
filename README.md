@@ -16,7 +16,7 @@ On this [page you can read](https://odysseyhack.github.io/the-evaluation) exactl
 - if you have multiple repos the lowest scoring repo is your final mark (weakest link principle).
 - On Sunday April 14th between 10:30 and 11:59 ask for a sticker with your final score.
 
-## How to get started with BetterCodehub
+## Tutorial: How to get started with BetterCodehub
 - We have prepared a short [Tutorial](https://odysseyhack.github.io/tutorial)
 
 ## Provided by
