@@ -1,4 +1,5 @@
 ## Want to win? Learn how we check your code here.
+
 During the Odyssey Hackathon Software Improvement Group (SIG) will assess the maturity of your prototype. If you pass this test, the jury knows that you have build a ‘mature prototype’
 
 ## Tech Lead Briefing at the Hackathon - Friday 11 April 11.00-11.30 on the process
