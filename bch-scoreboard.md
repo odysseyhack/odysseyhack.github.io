@@ -9,5 +9,6 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize or s
 
 |Team | Better Code Hub Score |
 | ---: | --- |
-|[Test](https://github.com/Blockchaingers/ac-bc) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/AC-BC?branch=master&token=1314b88105d9dabfaa4638580e7c17fe34ac2ce0)](https://bettercodehub.com/)
+| | 
+|[Model-FAMily](https://github.com/odysseyhack/model-family) | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/model-family?branch=master&token=a77f363aa30093f2f8886bb2533f1bf580b950ea)](https://bettercodehub.com/)
 
