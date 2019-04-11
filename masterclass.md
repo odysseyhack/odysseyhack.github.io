@@ -9,3 +9,5 @@ During the workshop Luc Brandts and Michiel Cuijpers of Software Improvement Gro
 - For teams that want to win with a mature prototype!
 
 - Free book for every participant to the masterclass
+
+- [Slides in pdf](https://github.com/odysseyhack/odysseyhack.github.io/blob/master/How-mature-is-your-prototype.pdf)
