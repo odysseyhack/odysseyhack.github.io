@@ -2,7 +2,12 @@
 
 During the Odyssey Hackathon [Software Improvement Group (SIG)](https://softwareimprovementgroup.com) will assess the maturity of your prototype. If you pass this test, the jury knows that you have build a ‘mature prototype’
 
-## Tech Lead Briefing at the Hackathon - Friday 11 April 11.00-11.30 on the process
+## Masterclass How Mature is my Prototype - Thurday 11 April 15:45 - 17:15
+
+On Thursday 11 April we gave a masterclass on the SIG quality model and how this is used in the Hackathon. You can find the slides in this [page](https://odysseyhack.github.io/masterclass)
+
+
+## Tech Lead Briefing at the Hackathon - Friday 12 April 11.00-11.30 on the process
 
 On this [page you can read](https://odysseyhack.github.io/the-evaluation) exactly how this process works. Your tech lead is invited to this pre-hackathon briefing, where we run through the process and answer any questions.
 
