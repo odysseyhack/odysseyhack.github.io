@@ -11,7 +11,7 @@ On Thursday 11 April we gave a masterclass on the SIG quality model and how this
 
 On this [page you can read](https://odysseyhack.github.io/the-evaluation) exactly how this process works. Your tech lead is invited to this pre-hackathon briefing, where we run through the process and answer any questions.
 
-## How to get a ‘Mature Prototype’ Certificate?
+## How to get a ‘Mature Prototype’ Star?
 - If your main repo scores a Better Code Hub 10/10 you qualify to schedule a grilling session.
 - Schedule the 10 minute slot for your session at the Jedi Hangout (limited slots available, so be quick!)
 - Get Grilled in this interview (slots available Saturday 20.00-22.00 and Sunday 9.00-12.00)
