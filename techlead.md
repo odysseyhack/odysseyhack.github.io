@@ -3,7 +3,7 @@
 On this [page you can read](https://odysseyhack.github.io/the-evaluation) exactly how this process works. Your tech lead is invited to this pre-hackathon briefing, where we run through the process and answer any questions.
 
 
-# Github.com/odysseyhack
+# [Github.com/odysseyhack](https://odysseyhack.github.io)
 
 Work on your code with your team privately on Github
 
@@ -13,7 +13,7 @@ Work on your code with your team privately on Github
 - try a first commit, for example readme
 - commit regularly
 
-# BetterCodeHub.com
+# [Better Code Hub](https://bettercodehub.com)
 
 Check your code quality score evolve with every commit
 
