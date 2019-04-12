@@ -19,13 +19,14 @@ Check your code quality score evolve with every commit
 
 - Visit BetterCodeHub.com
 - Accept the security scopes 
-- Tutorial is here : 
+- Tutorial is [here](https://odysseyhack.github.io/tutorial)
 
 
 # Mature prototype
 
-Show the maturity of your prototype to the jury
+Want to win & Show the maturity of your prototype to the jury
 
 - score a 10/10
 - register your name for the grilling session with @jade
 - in 10 minutes we will grill your techlead ;-)
+- read more [here](https://odysseyhack.github.io)
