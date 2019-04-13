@@ -58,7 +58,7 @@ The teams that score a 10/10 qualify for a short interview by a SIG Code JEDI. D
 
 2. if you have multiple repos the lowest scoring repo is your final mark (weakest link principle).
 
-3. On Sunday April 14th between 10:30 and 11:59 ask for a sticker with your final score.
+3. On Sunday April 14th between 9:00 and 11:59 ask for a sticker with your final score.
 
 4. Put the sticker on the canvas.
 
