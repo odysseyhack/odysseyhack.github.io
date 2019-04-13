@@ -2,6 +2,8 @@
 ## Better Code Hub score
 
 
+# 10 out 10 qualifies for a GRILL session
+
 Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize.
 
 
