@@ -45,7 +45,7 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize.
 |  [BCEC](https://github.com/odysseyhack/bcec-team-b) |  [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/bcec-team-b?branch=master&token=6438a6a7c503f6a73143271b77a6ce33410d6a82)](https://bettercodehub.com/) | [SKY](https://github.com/odysseyhack/sky) | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/sky?branch=master&token=1fd5a0420a8a9081ddb9edf0ea006d1ff47ac476)](https://bettercodehub.com/)  |
 | Beagle  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/Beagles?branch=master&token=e2535b057f965aace83673ef5637ba64c455a865)](https://bettercodehub.com/)  | KPN-techn | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/kpn-technium?branch=master&token=6e3a8390b1942eed3ad52e1c13bae63ceb0935ca)](https://bettercodehub.com/)  |
 | HybridFuture  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/HybridFuture?branch=master)](https://bettercodehub.com/)  | Lift-off  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/lift-off?branch=master&token=8b8dd20cfb2b7ed1aa4632c64fa31a19956cde74)](https://bettercodehub.com/)  |
-|   |   |   |   |
+| ARCEUS |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
