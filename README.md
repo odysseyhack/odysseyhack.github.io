@@ -1,4 +1,4 @@
-## Want to win? Learn how we check your code here !
+## Want to win? Learn how we check your code here!
 
 During the Odyssey Hackathon [Software Improvement Group (SIG)](https://softwareimprovementgroup.com) will assess the maturity of your prototype. If you pass this test, the jury knows that you have build a ‘mature prototype’
 
@@ -26,6 +26,6 @@ On this [page you can read](https://odysseyhack.github.io/the-evaluation) exactl
 - Schedule the 10 minute slot for your session at the Jedi Hangout (limited slots available, so be quick!)
 - Get Grilled in this interview (slots available Saturday 20.00-22.00 and Sunday 9.00-12.00)
 
-## Provided by
+## Sponsored by
 - Better Code Hub and Grill sessions by [Software Improvement Group](https://softwareimprovementgroup.eu) 
 - this org with private repos for 1 month by [Github](https://github.com)
