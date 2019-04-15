@@ -8,7 +8,7 @@ This weekend we were part of the worlds biggest BlockChain and AI Hackathon in t
 Almost 25% of the repos scored a 10 out of 10 on the final day. Well done! For a list of all the individual scores please visit this [scoreboard](/scoreboard.md). The 10 guidelines are exlained [here](https://odysseyhack.github.io)
 
 ## Golden Balloon
-The teams that scored a 10/10 were invited for a technical interview with 4 consultants of the [Software Improvement Group](https:/sig.eu). In these 'Grill sessions' the techleads were challenged on software engineering topics like why use Blockchain, how scalable is this architecture and how strong is your security. The price was golden.
+The teams that scored a 10/10 were invited for a technical interview with 4 consultants of the Software Improvement Group. In these 'Grill sessions' the techleads were challenged on software engineering topics like why use Blockchain, how scalable is this architecture and how strong is your security. The price was golden.
 
 ![Golden balloons](goldenballoon.jpg)
 
