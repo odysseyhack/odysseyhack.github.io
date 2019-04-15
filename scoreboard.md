@@ -16,7 +16,6 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize. Kud
 | [Bencom](https://github.com/odysseyhack/bencom) | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/bencom?branch=master&token=16165e45b7ac6eba72f54481f11edd7930f72083)](https://bettercodehub.com/) [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/benchain.community.web?branch=master&token=ba0a7e4751ebbd7c71436a9b46871222183ca48f)](https://bettercodehub.com/) [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/benchain.web?branch=master&token=839e861c13dd4905c11a51c77fa3beba2d1afdd6)](https://bettercodehub.com/)  | [Enshore-Unchained](https://github.com/odysseyhack/enshore_unchained)  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/enshore_unchained?branch=master&token=9eec034c4e19655259a88382a988b6e8daba0e27)](https://bettercodehub.com/)  |
 | [Some-One](https://github.com/odysseyhack/some-one-backend)   | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/some-one-backend?branch=master&token=5f3452ee87e348095de62548cdc7dc3197819eef)](https://bettercodehub.com/) [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/some-one-frontend?branch=master&token=570b3c7f40cb2cc5665deac7de75d04f87aa2033)](https://bettercodehub.com/)  | [The-Future-FF](https://github.com/odysseyhack/future-firefighters-app)  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/future-firefighters-app?branch=master&token=18417a8a732d8b50323036839a6def7d303938e7)](https://bettercodehub.com/) [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/future-firefighters-ds?branch=master&token=bc576155366af56021a299f0cdb18a3f4242e6fd)](https://bettercodehub.com/) |
 | [Hyper42](https://github.com/odysseyhack/hyper42)  | [![BCH compliance](https://bettercodehub.com/edge/badge/EBPI/Hyper42-Hackathon2019?branch=master)](https://bettercodehub.com/)  | [Foodflow](https://github.com/odysseyhack/foodflow)  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/foodflow?branch=master&token=b236d86339f2b9bec4ecb3ebc37d9fa969094988)](https://bettercodehub.com/) |
-|   |   |   |   |
 | [Model-FAMily](https://github.com/odysseyhack/model-family)  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/model-family?branch=master&token=a77f363aa30093f2f8886bb2533f1bf580b950ea)](https://bettercodehub.com/)  | [SocialTec](https://github.com/odysseyhack/socialtec)  |  [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/socialtec?branch=master&token=514eec658dfd1d81bb3fb9f4433957e78fb398db)](https://bettercodehub.com/)  |
 | [Le-Wagon](https://github.com/odysseyhack/le-wagon) | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/le-wagon?branch=master&token=5aefc783eae308dd3ded740caee4bc6d245df40b)](https://bettercodehub.com/)  | [MVP-Workshop](https://github.com/odysseyhack/mvp-workshop) | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/mvp-workshop?branch=master&token=56a4cb8b656597520c9d3fed9e42e08f8475c438)](https://bettercodehub.com/) |
 | [APG-Rescue-R](https://github.com/odysseyhack/apg-rescue-rangers) | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/apg-rescue-rangers?branch=master&token=79de89d34552faffb9f5b0c2fa4420d9e76d85c8)](https://bettercodehub.com/)  |   |  | 
@@ -52,27 +51,4 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize. Kud
 | Beagle  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/Beagles?branch=master&token=e2535b057f965aace83673ef5637ba64c455a865)](https://bettercodehub.com/)  | KPN-techn | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/kpn-technium?branch=master&token=6e3a8390b1942eed3ad52e1c13bae63ceb0935ca)](https://bettercodehub.com/)  |
 | HybridFuture  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/HybridFuture?branch=master)](https://bettercodehub.com/)  | Lift-off  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/lift-off?branch=master&token=8b8dd20cfb2b7ed1aa4632c64fa31a19956cde74)](https://bettercodehub.com/)  |
 | ARCEUS |[![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/Arceus?branch=master)](https://bettercodehub.com/) [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/arceus-jaavtm?branch=master&token=a76609f65cb7381a5befceda4d14941baccf1956)](https://bettercodehub.com/)  |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
 |   |   |   |   |
