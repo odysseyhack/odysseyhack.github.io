@@ -1,5 +1,5 @@
 ## Code Quality Odyssey
-This weekend we were part of the worlds biggest BlockChain and AI Hackathon in the world: [Odyssey.org](https://odyssey.org). Writing maintainable code was an integral part of the jury process. It might seem strange but even at a Hackathon [code quality matters](/code-quality-matters.md)! One particpant said "Even at a Hackathon you can create technical dept". 
+This weekend we were part of the worlds biggest BlockChain and AI Hackathon in the world: [Odyssey.org](https://odyssey.org). Writing maintainable code was an integral part of the jury process. It might seem strange but even at a Hackathon [code quality matters](/code-quality-matters.md)! One participant said "Even at a Hackathon you can create technical dept". 
 
 The 100 teams were invited to work in GitHub teams and created 140 (private) repos. Code quality was analysed for every commit in every repo starting at day 1 of the hackathon. A whooping number of 7391 analyses where done over the weekend. 
 
