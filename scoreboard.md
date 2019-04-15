@@ -4,7 +4,7 @@
 
 # 10 out 10 qualifies for a GRILL session
 
-Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize.
+Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize. Kuddos to GitHub for the voucher for private repos!
 
 
 | Team  | Score   | Team  | Score  |
