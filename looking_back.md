@@ -14,7 +14,7 @@ The teams that scored a 10/10 were invited for a technical interview with 4 cons
 
 
 ## Future-proof code
-Overall we were impressed by the technical quality of the tech leads during the grill sessions. It was great to be part of the hackathon vibe again. Looking forward to the future. 
+Overall we were impressed by the technical quality of the tech leads during the grill sessions, and also by the quality of the pitches. It was great to be part of the hackathon vibe again. Looking forward to the future. 
 
 Thanks.
 
