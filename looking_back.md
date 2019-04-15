@@ -3,7 +3,7 @@ This weekend we were part of the world's biggest BlockChain and AI Hackathon in 
 
 100 teams were invited to work in GitHub private teams and created 140 (private) code repositories. Code quality was analysed for every push to every repo starting at day zero. A whooping number of 7391 automated analyses where done with static code analyser [BetterCodeHub BCH](https://bettercodehub.com). 
 
-![Code Quality over time of the Hackathob](overall_scores.jpg)
+![Code Quality over time of the Hackathob](overall-scores.jpg)
 ###### Graph 1: Throughout the 3 days of hacking, the proportion of teams that complied with 10 out of 10 code quality guidelines increased from about 10% initially to about 25% on the last day
 
 
