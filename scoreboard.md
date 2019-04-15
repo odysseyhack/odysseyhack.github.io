@@ -11,7 +11,7 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack, Mobilize. Kud
 |---|---|---|---|
 | [Boldchain](https://github.com/odysseyhack/boldchain)  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/boldchain?branch=master&token=9331611c04403356ed42406f84d8d5e5d7d67500)](https://bettercodehub.com/)  | [Smilo](https://github.com/odysseyhack/smilo)  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/smilo?branch=develop)](https://bettercodehub.com/)  |
 | [Circularise](https://github.com/odysseyhack/circularise)  | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/circularise?branch=master&token=75802c74c6d7d22a794eeee346fd4032815d33d2)](https://bettercodehub.com/) [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/circularise-dashboard?branch=master&token=a17aeeea68a427f63136cd3c7144af9b88bfd8a8)](https://bettercodehub.com/) | [Planet-Society](https://github.com/odysseyhack/planet-society)   | [![BCH compliance](https://bettercodehub.com/edge/badge/odysseyhack/planet-society?branch=master&token=889ad2fb3af539130e7bbb7c51d82b4e4774373a)](https://bettercodehub.com/)   |
-| [Insured-By-the-ledger](https://github.com/odysseyhack/insured-by-theledger-be) | |  |   |
+| [Insured-BTL](https://github.com/odysseyhack/insured-by-theledger-be) | |  |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
