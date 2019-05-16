@@ -1,4 +1,4 @@
-## Code Quality Odyssey
+## Looking back at Code Quality Odyssey
 This weekend we were part of the world's biggest BlockChain and AI Hackathon in Groningen (NL): [Odyssey.org](https://odyssey.org). Writing maintainable code was an integral part of the jury process. It might seem strange but even at a Hackathon [code quality matters](/code-quality-matters.md)! One participant said "Even at a hackathon you can create technical debt that slows you down". 
 
 100 teams were invited to work in GitHub private teams and created 140 (private) code repositories. Code quality was analysed for every push to every repo starting at day zero. A whooping number of 7391 automated analyses where done with static code analyser [BetterCodeHub (BCH)](https://bettercodehub.com). BCH scores code quality against 10 software quality guidelines with benchmarked thresholds. Almost 25% of the repos scored a 10 out of 10 on the final day. Well done! The 10 guidelines are exlained [here](https://odysseyhack.github.io)
