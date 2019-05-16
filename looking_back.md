@@ -15,6 +15,9 @@ The teams that scored a 10/10 were invited for a technical interview with 4 cons
 ![Golden balloons](goldenballoon.jpg)
 ###### Picture 1: Odyssey team is having a relaxing chat after earning a golden star in their Grill Session with SIG
 
+## Sponsored by
+- Better Code Hub and Grill sessions by [Software Improvement Group](https://softwareimprovementgroup.eu) 
+- this org with private repos for 1 month by [Github](https://github.com)
 
 ## Future-proof code
 Overall we were impressed by the technical quality of the tech leads during the grill sessions, and also by the quality of the pitches. It was great to be part of the hackathon vibe again. Looking forward to the future. 
